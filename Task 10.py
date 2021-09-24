@@ -6,3 +6,5 @@ wordlist = sent. split()
 #counts the number of characters, to define the number of words
 wordnum = len(wordlist)
 print(wordnum)
+
+## ACS OK The use of split has helped here. 

@@ -4,3 +4,5 @@ num = int(input("input an integer"))
 divsor = int(input("input the divisor"))
 #prints the whole integer division, then the remainder
 print(num // divsor , " remainder " , num % divsor)
+
+## ACS - Good work

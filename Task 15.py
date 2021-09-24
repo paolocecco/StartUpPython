@@ -10,3 +10,5 @@ while strike != "R" or strike != "P" or strike != "S":
 import string
 import random
 random.choice(string.ascii_letters)
+
+## ACS This didn't seem to allow valid inputs

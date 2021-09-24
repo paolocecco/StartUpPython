@@ -10,3 +10,5 @@ while counter > 0 and counter < 11:
     print(num*counter , ",")
     counter = counter + 1
 #endwhile
+
+## ACS Good .. did you mean each one to be on a separate line?

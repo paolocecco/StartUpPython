@@ -18,3 +18,5 @@ elif num3 > num1 and num1 > num2:
 elif num3 > num2 and num2 > num1:
     print(num3, num2, num1)
 #endif
+
+## ACS Good but possibly not the most efficient solution. if there were 6 numbers this would get very long!

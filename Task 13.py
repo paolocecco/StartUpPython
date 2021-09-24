@@ -23,3 +23,5 @@ for c in sent:
     #endif
 #next
 print(encryption)
+
+## ACS This works for lowercase letters. It doesn't handle spaces. A decent effort.

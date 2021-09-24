@@ -8,3 +8,6 @@ while i > 1 and i < num:
     if num % i == 0:
         print(i)
     i = i + 1
+
+    ## ACS work .. Make sure you use comments for end of if and while statemewnts
+    ## What about 1 and 64 they are also factors :-)
